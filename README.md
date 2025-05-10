@@ -13,8 +13,11 @@ Bigram & Trigram Analysis: Extracts common word pairs and triplets.
 *** Installation *** 
 
 1- Clone the repository
+
 2- Install dependencies
+
 3- Run the Jupyter Lab
+
 
 *** Outputs *** 
 
